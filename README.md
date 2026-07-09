@@ -7,7 +7,7 @@ Este repositório contém a solução desenvolvida para o desafio **"Copiloto de
 ## 📋 Sobre o Projeto
 
 ### 1. Tema Escolhido
-O projeto foi ambientado no mercado de **Varejo de Moda Feminina Premium**, focando na marca fictícia *Amora Boutique*. A solução atua como um assistente de inteligência artificial voltado para a consultoria de imagem aplicada a vendas.
+O projeto foi ambientado no mercado de **Varejo de Moda Feminina Premium**, focando na marca fictícia *Roupas Boutique*. A solução atua como um assistente de inteligência artificial voltado para a consultoria de imagem aplicada a vendas.
 
 ### 2. Usuário Principal da Solução
 O usuário final desta ferramenta é a **vendedora / consultora de moda da loja**, que atua tanto no atendimento presencial (no momento em que a cliente está no provador) quanto no atendimento digital (via WhatsApp).
